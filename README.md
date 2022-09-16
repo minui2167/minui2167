@@ -13,3 +13,4 @@
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS LAMBDA](https://img.shields.io/badge/AWS%20LAMBDA-%23FF9900.svg?style=for-the-badge&logo=amazon-lambda&logoColor=white)
+![AWS LIGHTSAIL](https://img.shields.io/badge/AWS%20LIGHTSAIL-%23FF9900.svg?style=for-the-badge&logo=amazon-lightsail&logoColor=white)
